@@ -1,3 +1,5 @@
+[![CI](https://github.com/Datasculptures/scholar-corpus/actions/workflows/ci.yml/badge.svg)](https://github.com/Datasculptures/scholar-corpus/actions/workflows/ci.yml)
+
 # scholar-corpus
 
 Reproducible, provenance-stamped builder for joined, citation-linked scholarly
